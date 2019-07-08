@@ -1,0 +1,17 @@
+/* universal selector */
+*,
+*::after,
+*::before {
+    margin: 0;
+    padding: 0;
+    box-sizing: inherit;
+}
+
+html {
+    //This defines what 1rem is
+    font-size: 62.5%; /* 10px, allow users to zoom in */
+}
+
+body {
+    box-sizing: border-box;   /* no borders or padding are added to the total width and height */
+}
