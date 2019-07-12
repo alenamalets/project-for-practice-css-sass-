@@ -8,7 +8,6 @@
     padding-left: 9rem;
     font-size: $defaulf-font-size;
     transform: skewX(-12deg);
-    backface-visibility: hidden;
 
     &__shape {
         width: 15rem;
@@ -49,7 +48,7 @@
     }
 
     &:hover &__image {
-        // transform: translateX(-4rem) scale(1);
+        transform: translateX(-4rem) scale(1);
         filter: blur(3px) brightness(80%);
     }
 }
