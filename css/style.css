@@ -465,7 +465,7 @@ body {
     float: left;
     shape-outside: circle(50% at 50% 50%);
     clip-path: circle(50% at 50% 50%);
-    transform: translateX(-3rem) skewX(12deg);
+    transform: translateX(-3rem) skewX(11deg);
     position: relative; }
   .story__image {
     height: 100%;
