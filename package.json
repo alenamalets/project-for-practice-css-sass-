@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/alenamalets/project-for-practice-css-sass-#readme",
   "devDependencies": {
-    "node-sass": "^4.12.0"
+    "node-sass": "^7.0.0"
   }
 }
